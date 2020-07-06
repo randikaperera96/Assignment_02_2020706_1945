@@ -1,0 +1,14 @@
+{
+  "name": "assignment_02_2020706_1945",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "G.A.R Perera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
